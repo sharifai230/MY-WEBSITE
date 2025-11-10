@@ -1,0 +1,5 @@
+{
+  "name": "Modern Static Website with React and Tailwind",
+  "description": "A modern, responsive single-page application built with React and Tailwind CSS, converting a classic static HTML/CSS website into a component-based structure. It features distinct sections for home, about, gallery, and contact.",
+  "requestFramePermissions": []
+}
